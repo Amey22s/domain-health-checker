@@ -17,8 +17,8 @@ This application monitors the availability of domains based on HTTP response cod
 1. Clone this repository.
 2. Navigate to the project directory.
 
-**Commands to be used in cmd**:
-    git clone [GitHub repository](https://github.com/Amey22s/domain-health-checker)
+## Commands to be used in cmd:
+    git clone https://github.com/Amey22s/domain-health-checker
     cd domain-health-checker
 
 ---
@@ -35,6 +35,6 @@ This application monitors the availability of domains based on HTTP response cod
    - The logs will be printed to the console every 15 seconds, showing the availability of the domains.
 
 
-P.S. In this case, <path-to-input-yaml-file> can be replaced with input.yaml which has the sample input file.
+P.S. In this case, `<path-to-input-yaml-file>` can be replaced with input.yaml which has the sample input file.
 
 ---
